@@ -69,6 +69,7 @@ email: "imzszhahahaha@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I'm a statistics PhD student at Stony Brook University. My research focus on robust machine learning methods against label noise or data posioning attack.  
+I'm a statistics PhD student at Stony Brook University. My research focus on robust machine learning methods against label noise or data posioning attack. I'm also interested
+in the application of machine leanring method to solve financial problem. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/academic_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
