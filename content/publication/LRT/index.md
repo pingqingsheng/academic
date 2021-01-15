@@ -1,9 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "LRT"
-authors: []
-date: 2021-01-15T18:41:21-05:00
+title: "Error-Bounded Correction of Noisy Labels"
+authors: [Songzhu Zheng, Pengxiang Wu, Aman Goswami, Mayank Goswami, Dimitris Metaxas, Chao
+Chen]
+date: 2020-12
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +14,10 @@ publishDate: 2021-01-15T18:41:21-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Error-Bounded Correction of Noisy Labels"
 publication_short: ""
 
 abstract: ""
@@ -25,7 +26,7 @@ abstract: ""
 summary: ""
 
 tags: []
-categories: []
+categories: [Deep Learning]
 featured: false
 
 # Custom links (optional).
@@ -36,12 +37,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: http://proceedings.mlr.press/v119/zheng20c/zheng20c.pdf
+url_code: https://github.com/pingqingsheng/LRT
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides:https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-16-13-00UTC-6161-error-bounded_c.pdf
 url_source:
 url_video:
 
