@@ -6,7 +6,7 @@ title: Songzhu Zheng
 superuser: true
 
 # Role/position/tagline
-role: PhD Student of Artificial Intelligence
+role: PhD Student of Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD in Statistics
     institution: Stony Brook University
-    year: 2017
+    year: 2022 (expected)
   - course: MA in Statistics
     institution: Rice University
-    year: 2015
+    year: 2017
   - course: BS in Statistics
     institution: Communication University of China
-    year: 2011
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +64,7 @@ social:
   link: media/academic_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "imzszhahahaha@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
