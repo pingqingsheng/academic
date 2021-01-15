@@ -16,8 +16,8 @@ publishDate: 2021-01-15T18:41:21-05:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Error-Bounded Correction of Noisy Labels"
-publication_short: ""
+publication: "International Conference on Machine Learning"
+publication_short: "ICML"
 
 abstract: ""
 
