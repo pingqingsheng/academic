@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Error-Bounded Correction of Noisy Labels"
-authors: [Songzhu Zheng, Pengxiang Wu, Aman Goswami, Mayank Goswami, Dimitris Metaxas, Chao
-Chen]
+authors: [Songzhu Zheng, Pengxiang Wu, Aman Goswami, Mayank Goswami, Dimitris Metaxas, Chao Chen]
 date: 2020-12
 doi: ""
 
@@ -42,7 +41,7 @@ url_code: https://github.com/pingqingsheng/LRT
 url_dataset:
 url_poster:
 url_project:
-url_slides:https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-16-13-00UTC-6161-error-bounded_c.pdf
+url_slides: https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-16-13-00UTC-6161-error-bounded_c.pdf
 url_source:
 url_video:
 
