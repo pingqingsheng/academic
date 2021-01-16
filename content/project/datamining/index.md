@@ -4,7 +4,7 @@
 title: "Exploring the Relationship Between Cancer and Unhealthy Habits"
 summary: "Investigate the top risk factors that correlate with cancer cases using demographic data"
 authors: [Songzhu Zheng]
-tags: [Data Exploring]
+tags: [Other]
 categories: [Other]
 date: 2021-01-15T20:40:56-05:00
 
