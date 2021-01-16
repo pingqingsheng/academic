@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sv"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Forecasting the Volatility of Stock Market with Bayes Stochastic Volatility Model"
+summary: "Garch model in Bayes frame work - an application of PyMc package"
+authors: [Songzhu Zheng]
+tags: [Time Series]
+categories: [Machine Learning]
 date: 2021-01-15T20:13:34-05:00
 
 # Optional external URL for project (replaces project detail page).
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "MCMC Series"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
