@@ -30,7 +30,7 @@ content:
   - name: Machine Learning
     tag: Machine Learning
   - name: Other
-    tag: Time Series | Data Exploring 
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
