@@ -68,6 +68,7 @@ So let's get start:
 ### __Prerequisite__
 
 <dl style=' font-family:"Times New Rome"; font-size:14pt '>
+[//]:
 + <code> R </code> 
 + <code> Rcpp </code>
 + <code> RcppArmadillo </code>
