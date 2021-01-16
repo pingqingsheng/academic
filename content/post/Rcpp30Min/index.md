@@ -36,7 +36,6 @@ projects: []
 You could simply write a inline C++ code in R like this:
 </p>
 
-\
 ```{r, echo=TRUE, eval=FALSE}
 library(Rcpp)
 # Define a Rcpp function
@@ -52,7 +51,6 @@ add_vec <- Rcpp::cppFunction(
 # See the result
 t(add_vec(c(1,2,3), c(2,3,4)))
 ```
-\
 
 <p style=' font-family:"Times New Rome"; font-size:14pt '>
 Or you could save your <code> .cpp </code> file and call the function from R. With this
@@ -95,7 +93,6 @@ In the folder PoisLASSO, there is a folder called src where you should put all y
 I'll skip the detail of this algorithm. But the main idea is to iteratively optimize the objective function and its conjugate problem. The objective function is solved with Lagrange multipler method with augmented variable. And the algorithm is presented as below:
 </p>
 
-\
 ```{r, echo=TRUE, engine='Rcpp', eval=FALSE}
   
   #include <iostream>
@@ -201,12 +198,10 @@ I'll skip the detail of this algorithm. But the main idea is to iteratively opti
 Go to the upper directory of your current directory, which contain the PoissLASSO folder. And open your command line (you could do it with <code> devtools </code> as well), and write:
 </p>
 
-\
 ```{bash, eval=FALSE, echo=TRUE}
 R CMD build PoissLASSO
 R CMD check PoissLASSO
 ```
-\
 
 <p style=' font-family:"Times New Rome"; font-size:14pt '>
 If everything is OK, you could now install your package locally <code> devtools::install('PoissLASSO') </code>.
@@ -216,7 +211,6 @@ If everything is OK, you could now install your package locally <code> devtools:
 And upload your package to Github with:
 </p>
 
-\
 ```{bash, eval=FALSE, echo=TRUE}
 git init
 git add .
@@ -224,15 +218,12 @@ git remote add -v "Your Repo URL go here"
 git commit -m "First Commit"
 git push -u origin master
 ```
-\
 
 <p style=' font-family:"Times New Rome"; font-size:14pt '>
 And after finishing this, you should be able to download your own package with 
 </p>
 
-\
 ```{r, echo=TRUE, eval=FALSE}
 devtools::install_github('Your Git Account Name/Your repo name')
 library('PoissLASSO')
 ```
-\
