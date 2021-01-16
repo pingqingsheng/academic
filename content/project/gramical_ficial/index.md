@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Gramical_ficial"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Grammatical Facial Expression Recognition"
+summary: "Recognize the grammical facial expression using machine learning"
+authors: [Songzhu Zheng]
+tags: [facial expression recognition]
+categories: [Machine Learning]
 date: 2021-01-15T20:05:03-05:00
 
 # Optional external URL for project (replaces project detail page).
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Feature Importance Heat Map"
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -27,9 +27,9 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/pingqingsheng/STAT-545/blob/master/Final_Project.R"
 url_pdf: ""
-url_slides: ""
+url_slides: "https://github.com/pingqingsheng/STAT-545/blob/master/STAT-541%20MultiVar.pdf"
 url_video: ""
 
 # Slides (optional).
