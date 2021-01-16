@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/pingqingsheng/academic/blob/master/content/project/materials/sv_slide.pdf"
 url_slides: ""
 url_video: ""
 
