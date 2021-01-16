@@ -4,7 +4,7 @@
 title: "Forecasting the Volatility of Stock Market with Bayes Stochastic Volatility Model"
 summary: "Garch model in Bayes frame work - an application of PyMc package"
 authors: [Songzhu Zheng]
-tags: [Time Series]
+tags: [Machine Learning]
 categories: [Machine Learning]
 date: 2021-01-15T20:13:34-05:00
 

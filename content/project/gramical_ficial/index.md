@@ -4,7 +4,7 @@
 title: "Grammatical Facial Expression Recognition"
 summary: "Recognize the grammical facial expression using machine learning"
 authors: [Songzhu Zheng]
-tags: [facial expression recognition]
+tags: [Machine Learning]
 categories: [Machine Learning]
 date: 2021-01-15T20:05:03-05:00
 
