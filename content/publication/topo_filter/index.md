@@ -1,31 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Topo_filter"
-authors: []
-date: 2021-01-15T18:57:29-05:00
+title: "A Topological Filter for Learning with Label Noise"
+authors: [Pengxiang Wu, Songzhu Zheng, Mayank Goswami, Dimitris Metaxas, Chao Chen]
+date: 2020-12-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-15T18:57:29-05:00
+publishDate: 2020-12-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Conference on Neural Information Processing Systems"
+publication_short: "NeurIPS"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: [Label Noise]
+categories: [Deep Learning]
 featured: false
 
 # Custom links (optional).
@@ -36,10 +36,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://arxiv.org/pdf/2012.04835.pdf
+url_code: https://github.com/pxiangwu/TopoFilter
 url_dataset:
-url_poster:
+url_poster: 
 url_project:
 url_slides:
 url_source:
