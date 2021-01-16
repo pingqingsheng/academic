@@ -1,31 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Progressive"
-authors: []
-date: 2021-01-15T19:37:01-05:00
+title: "(Spotlight) Learning with Feature Dependent Label Noise: a Progressive Approach"
+authors: [Yikai Zhang, Songzhu Zheng, Pengxiang Wu, Mayank Goswami, Chao Chen]
+date: 2021-01-15
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-15T19:37:01-05:00
+publishDate: 2021-01-15
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "International Conference on Learning Representations"
+publication_short: "ICLR"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: [label noise]
+categories: [Deep Learning]
 featured: false
 
 # Custom links (optional).
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://openreview.net/pdf?id=ZPa2SyGcbwh
+url_code: https://github.com/pingqingsheng/GAda
 url_dataset:
 url_poster:
 url_project:
