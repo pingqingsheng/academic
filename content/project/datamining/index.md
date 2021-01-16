@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Datamining"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Exploring the Relationship Between Cancer and Unhealthy Habits"
+summary: "Investigate the top risk factors that correlate with cancer cases using demographic data"
+authors: [Songzhu Zheng]
+tags: [Data Exploring]
+categories: [Other]
 date: 2021-01-15T20:40:56-05:00
 
 # Optional external URL for project (replaces project detail page).
@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://github.com/pingqingsheng/academic/blob/master/content/project/materials/datamining_slide.pdf"
 url_video: ""
 
 # Slides (optional).
