@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A Topological Filter for Learning with Label Noise"
-authors: [Pengxiang Wu, Songzhu Zheng, Mayank Goswami, Dimitris Metaxas, Chao Chen]
+title: "(+equal contribution) A Topological Filter for Learning with Label Noise"
+authors: [Pengxiang Wu+, Songzhu Zheng+, Mayank Goswami, Dimitris Metaxas, Chao Chen]
 date: 2020-12-01
 doi: ""
 

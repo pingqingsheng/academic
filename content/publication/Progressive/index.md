@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "(Spotlight) Learning with Feature Dependent Label Noise: a Progressive Approach"
-authors: [Yikai Zhang, Songzhu Zheng, Pengxiang Wu, Mayank Goswami, Chao Chen]
+title: "(Spotlight, +equalcontribution) Learning with Feature Dependent Label Noise: a Progressive Approach"
+authors: [Yikai Zhang+, Songzhu Zheng+, Pengxiang Wu+, Mayank Goswami, Chao Chen]
 date: 2021-01-15
 doi: ""
 

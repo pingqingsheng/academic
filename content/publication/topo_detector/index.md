@@ -3,11 +3,11 @@
 
 title: "Topological Detection of Trojaned Neural Networks" 
 authors: [Songzhu Zheng, Yikai Zhang, Hubert Wagner, Mayank Goswami, Chao Chen]
-date: 2021
+date: 2021-10-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-12
+publishDate: 2021-10-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
