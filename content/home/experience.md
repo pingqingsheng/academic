@@ -2,7 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -23,24 +23,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: AI Researcher Intern
+    company: Morgan Stanley
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: NYC
+    date_start: '2021-06'
+    date_end: '2021-08'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Design and implement DNN that identifies learnable data out of majority noisy dataset
+        * Construct the optimal MBS products with maximized market value with RL methods
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+#  - title: Professor
+#    company: University X
+#    company_url: ''
+#    location: California
+#    date_start: '2016-01-01'
+#    date_end: '2016-12-31'
+#    description: Taught electronic engineering and researched semiconductor physics.
+
 ---
