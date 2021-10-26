@@ -36,7 +36,7 @@ experienice:
             *
             * Construct the optimal MBS products with maximized market value with RL methods
 ---
-#  - title: Professor
+#    title: Professor
 #    company: University X
 #    company_url: ''
 #    location: California
