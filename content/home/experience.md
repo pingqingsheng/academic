@@ -22,9 +22,10 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experienice:
-  - title: AI Researcher Intern
-    company: Morgan Stanley
+  - title: 'AI Researcher Intern'
+    company: 'Morgan Stanley'
     company_url: ''
     location: NYC
     date_start: '2021-06'
@@ -33,13 +34,5 @@ experienice:
         Responsibilities include:
             
             * Design and implement DNN that identifies learnable data out of majority noisy dataset
-            *
             * Construct the optimal MBS products with maximized market value with RL methods
 ---
-#    title: Professor
-#    company: University X
-#    company_url: ''
-#    location: California
-#    date_start: '2016-01-01'
-#    date_end: '2016-12-31'
-#    description: Taught electronic engineering and researched semiconductor physics.
