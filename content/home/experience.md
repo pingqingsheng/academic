@@ -28,7 +28,7 @@ experience:
     company_url: ''
     location: NYC
     date_start: '2021-06-07'
-    date_end: ''
+    date_end: '2021-08-07'
     description: |2-
         Responsibilities include:
         
