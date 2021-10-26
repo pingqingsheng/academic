@@ -29,9 +29,8 @@ experienice:
     location: NYC
     date_start: '2021-06'
     date_end: '2021-08'
-    description:|2-
-        Responsibilities include:
-        
+    description: |2-
+        Responsibilities include
         * Design and implement DNN that identifies learnable data out of majority noisy dataset
         * Construct the optimal MBS products with maximized market value with RL methods
         
