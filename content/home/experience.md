@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiences
 subtitle:
 
 # Date format for experience
@@ -30,10 +30,12 @@ experienice:
     date_start: '2021-06'
     date_end: '2021-08'
     description: |2-
-        Responsibilities include
-        * Design and implement DNN that identifies learnable data out of majority noisy dataset
-        * Construct the optimal MBS products with maximized market value with RL methods
-        
+        Responsibilities include:
+            
+            * Design and implement DNN that identifies learnable data out of majority noisy dataset
+            *
+            * Construct the optimal MBS products with maximized market value with RL methods
+---
 #  - title: Professor
 #    company: University X
 #    company_url: ''
@@ -41,5 +43,3 @@ experienice:
 #    date_start: '2016-01-01'
 #    date_end: '2016-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
-
----
