@@ -2,7 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-active: true
+# active: true
 
 # This file represents a page section.
 headless: true
@@ -27,13 +27,12 @@ experienice:
   - title: 'AI Researcher Intern'
     company: 'Morgan Stanley'
     company_url: ''
-    location: NYC
+    location: 'NYC'
     date_start: 'Jun 2021'
     date_end: 'Aug 2021'
     description: |2-
         Responsibilities include:
             
             * Design and implement DNN that identifies learnable data out of majority noisy dataset
-            *
             * Construct the optimal MBS products with maximized market value with RL methods
 ---
