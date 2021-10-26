@@ -24,6 +24,7 @@ date_format: Jan 2006
 experience:
   - title: AI Researcher Intern
     company: Morgan Stanly
+    company_logo: ms_logo
     company_url: ''
     location: NYC
     date_start: '2021-06-07'
@@ -31,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Design and implement DNN that identifies learnable data out of majority noisy dataset
-        * Construct the optimal MBS product with maximized market value with RL
+        * Design DNN that identifies learnable data out of majority noisy dataset
+        * Construct optimal MBS products with maximized market value with RL
         
 ---
