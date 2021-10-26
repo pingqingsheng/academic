@@ -28,11 +28,12 @@ experienice:
     company: 'Morgan Stanley'
     company_url: ''
     location: NYC
-    date_start: '2021-06'
-    date_end: '2021-08'
+    date_start: 'Jun 2021'
+    date_end: 'Aug 2021'
     description: |2-
         Responsibilities include:
             
             * Design and implement DNN that identifies learnable data out of majority noisy dataset
+            *
             * Construct the optimal MBS products with maximized market value with RL methods
 ---
